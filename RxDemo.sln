@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxDemo", "RxDemo\RxDemo.csproj", "{992AA80C-727A-40B6-80E4-B01F1D0DE8D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RxDemo", "RxDemo\RxDemo.csproj", "{992AA80C-727A-40B6-80E4-B01F1D0DE8D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveDemoDrawing", "ReactiveDemoDrawing\ReactiveDemoDrawing.csproj", "{A7C400C2-03B9-488C-A200-7CE84BA62FF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{992AA80C-727A-40B6-80E4-B01F1D0DE8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{992AA80C-727A-40B6-80E4-B01F1D0DE8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{992AA80C-727A-40B6-80E4-B01F1D0DE8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C400C2-03B9-488C-A200-7CE84BA62FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C400C2-03B9-488C-A200-7CE84BA62FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C400C2-03B9-488C-A200-7CE84BA62FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C400C2-03B9-488C-A200-7CE84BA62FF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

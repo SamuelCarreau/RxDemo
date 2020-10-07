@@ -12,7 +12,7 @@ namespace RxDemo
     {
         static void Main(string[] args)
         {
-            IExample example = new SimpleExample();
+            IExample example = new ColdAndHotObservableExemple();
             example.Start();
         }
     }
